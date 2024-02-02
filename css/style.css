@@ -82,12 +82,12 @@ div.green{
 footer{
     border: 5px #ffffff solid;
     background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
-    padding: 15px 15px 15px 0;
 }
 
 footer p{
     font-size: 20px;
     text-align: right;
+        padding: 15px 15px 15px 0;
 }
 
 
