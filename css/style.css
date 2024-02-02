@@ -34,7 +34,7 @@ img{
 
 div{
     padding: 20px;
-    border: solid #ffffff;
+    border: 3px solid #ffffff;
     min-height: 125px;
 }
 
@@ -86,12 +86,12 @@ div.green{
 footer{
     border: 5px #ffffff solid;
     background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
+    padding: 15px 15px 15px;
 }
 
 footer p{
     font-size: 20px;
     text-align: right;
-    padding: 15px 15px 15px;
 }
 
 
