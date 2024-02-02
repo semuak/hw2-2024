@@ -34,7 +34,9 @@ img{
 
 div{
     padding: 20px;
-    border: 3px solid #ffffff;
+    border-width: 3px; 
+    border-style: solid; 
+    border-color: #ffffff;
     min-height: 125px;
 }
 
