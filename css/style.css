@@ -34,9 +34,7 @@ img{
 
 div{
     padding: 20px;
-    border-width: 3px; 
-    border-style: solid; 
-    border-color: #ffffff;
+    border: 3px solid #ffffff;
     min-height: 125px;
 }
 
@@ -50,16 +48,16 @@ div.red{
     background: #ff0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px;
-    border-left: 5px;
+    border-bottom: 2px solid #ffffff;
+    border-left: 5px solid #ffffff;
 }
 
 div.blue{
     background: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-right: 5px;
-    border-top: 2px;
+    border-right: 5px solid #ffffff;
+    border-top: 2px solid #ffffff;
     color: #C4C4C4;
 }
 
@@ -72,8 +70,8 @@ div.yellow{
     background: #ffff00;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px;
-    border-left: 5px;
+    border-bottom: 2px solid #ffffff;
+    border-left: 5px solid #ffffff;
     color: #707070;
 }
 
@@ -81,14 +79,14 @@ div.green{
     background: #008500;
     text-align: left;
     margin-right: 50px;
-    border-right: 5px;
-    border-top: 2px;
+    border-right: 5px solid #ffffff;
+    border-top: 2px solid #ffffff;
 }
 
 footer{
     border: 5px #ffffff solid;
     background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
-    padding: 15px 15px 15px;
+    padding: 15px 15px 15px 0;
 }
 
 footer p{
